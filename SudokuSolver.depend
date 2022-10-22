@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1640480723 source:e:\documents\codeblocks\jonathan\sudokusolver\main.cpp
-	<iostream>
-	<vector>
-	<random>
-
